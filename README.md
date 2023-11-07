@@ -10,6 +10,10 @@
 ### Project introduction 
 Understanding and accurately identifying emotions from text tweets presents challenges due to the inherent complexity of human expression in written form. Ambiguities in language, including sarcasm, irony, and slang, present difficulties in correctly deciphering the underlying sentiment. In addition, cultural and contextual nuances further complicate the process, which can lead to misinterpretations. Moreover, the subjective nature of emotions and the lack of explicit indicators often hinder the development of robust and universally applicable models of emotion recognition
 
+### objective of this project
+
+The goal of the problem statement is to develop a robust emotion recognition system for analyzing textual tweets. The system must accurately identify and categorize the emotions expressed in tweets, taking into account the complexities and nuances of natural language. It should effectively handle challenges related to the diversity of emotion expressions, linguistic variations, and context-dependent moods to provide a comprehensive understanding of users' emotional states based on their Twitter posts.
+
 ### REFERENCES
 
 [1] C. Kariya and P. Khodke, “Twitter sentiment analysis,” in Proc. Int. Conf. Emerg. Technol. (INCET), Jun. 2020, pp. 212–216.

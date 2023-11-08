@@ -16,8 +16,8 @@ The goal of the problem statement is to develop a robust emotion recognition sys
 
 ### REFERENCES
 
-[1] C. Kariya and P. Khodke, “Twitter sentiment analysis,” in Proc. Int. Conf. Emerg. Technol. (INCET), Jun. 2020, pp. 212–216.
-[2] A. Alsaeedi and M. Zubair, “A study on sentiment analysis techniques of Twitter data,” Int. J. Adv. Comput. Sci. Appl., vol. 10, no. 2, pp. 361–374, 2019
-[3] D. Gamal, M. Alfonse, E.-S. M. El-Horbaty, and A.-B. M. Salem, “Twitter benchmark dataset for arabic sentiment analysis,” Int. J. Modern Edu. Comput. Sci., vol. 11, no. 1, pp. 33–38, Jan. 2019.
-[4] Srishti Vashishtha, Seba Susan, “Fuzzy rule based unsupervised sentiment analysis from social media posts”, Expert Syst. Appl. 138 (2019) 1–15.
-[5] Peng Wu, Xiaotong Li, Si Shen, Daqing He, “Social media opinion summarization using emotion cognition and convolutional neural networks”, Int. J. Inf. Manag. 51 (2020) 1–15.
+- [1] C. Kariya and P. Khodke, “Twitter sentiment analysis,” in Proc. Int. Conf. Emerg. Technol. (INCET), Jun. 2020, pp. 212–216.
+- [2] A. Alsaeedi and M. Zubair, “A study on sentiment analysis techniques of Twitter data,” Int. J. Adv. Comput. Sci. Appl., vol. 10, no. 2, pp. 361–374, 2019
+- [3] D. Gamal, M. Alfonse, E.-S. M. El-Horbaty, and A.-B. M. Salem, “Twitter benchmark dataset for arabic sentiment analysis,” Int. J. Modern Edu. Comput. Sci., vol. 11, no. 1, pp. 33–38, Jan. 2019.
+- [4] Srishti Vashishtha, Seba Susan, “Fuzzy rule based unsupervised sentiment analysis from social media posts”, Expert Syst. Appl. 138 (2019) 1–15.
+- [5] Peng Wu, Xiaotong Li, Si Shen, Daqing He, “Social media opinion summarization using emotion cognition and convolutional neural networks”, Int. J. Inf. Manag. 51 (2020) 1–15.
